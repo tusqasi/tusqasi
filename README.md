@@ -7,3 +7,5 @@ You found my GitHub. Nice. You want to know about me and my working, you are at 
 - 💬 Ask me about programming in python, about any programming actually because there is only different syntax, same logic. 
 - 📫 How to reach me: Message me on instagram, or just plain email me (tusdeve@gmail.com), or [reddit](https://www.reddit.com/user/tusqasi).
 - ⚡ Fun fact: I am not a human
+
+![My stats](https://github-readme-stats.vercel.app/api?username=tusqasi&show_icons=true)
